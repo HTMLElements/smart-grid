@@ -18,6 +18,10 @@ The Best Grid Web Component in the World. Built with Javascript ES6, CSS3. Works
 * Frozen | Pinned Rows and Columns
 * Merged Cells
 * Custom Cell Styles
+* Server-Side Data Loading, Filtering, Sorting, Pagination, Editing Operations 
+* Live Stream Updates
+* Dark and Light Mode
+
 
 
 &nbsp;
