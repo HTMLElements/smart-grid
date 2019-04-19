@@ -1,5 +1,7 @@
 # [Smart Grid Element](https://www.htmlelements.com)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,autocomplete,grid,typeahead,developers,webcomponents,customelements,polymer,material)
 
+The Best Grid Web Component in the World. Built with ES 6, CSS 3. Works with Angular, React and Vue.
+
 ### Grid Features Lists
 
 * Reactivity Support
