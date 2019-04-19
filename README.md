@@ -1,5 +1,12 @@
 # [Smart Grid Element](https://www.htmlelements.com)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,autocomplete,grid,typeahead,developers,webcomponents,customelements,polymer,material)
 
+&nbsp;
+[![Price](https://img.shields.io/badge/price-$399-0098f7.svg)](https://github.com/HTMLElements/smart-grid/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/@smarthtmlelements/smart-grid.svg?style=flat)](https://www.npmjs.com/package/@smarthtmlelements/smart-grid)
+[![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-grid.svg)](https://github.com/HTMLElements/smart-grid)
+[![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
+
+
 The Best Grid Web Component in the World. Built with Javascript ES6, CSS3. Works with Angular, React and Vue. No dependencies and No learning curve.
 
 ### Grid Features Lists
@@ -24,11 +31,6 @@ The Best Grid Web Component in the World. Built with Javascript ES6, CSS3. Works
 
 
 
-&nbsp;
-[![Price](https://img.shields.io/badge/price-$399-0098f7.svg)](https://github.com/HTMLElements/smart-grid/blob/master/LICENSE)
-[![npm](https://img.shields.io/npm/v/@smarthtmlelements/smart-grid.svg?style=flat)](https://www.npmjs.com/package/@smarthtmlelements/smart-grid)
-[![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-grid.svg)](https://github.com/HTMLElements/smart-grid)
-[![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
 
 # &lt;smart-grid&gt;
 
