@@ -7,7 +7,7 @@
 [![GitHub package version](https://img.shields.io/github/package-json/v/HTMLElements/smart-grid.svg)](https://github.com/HTMLElements/smart-grid)
 [![](https://img.shields.io/website-up-down-green-red/https/shields.io.svg?label=www.htmlelements.com)](https://www.htmlelements.com)
 
-# &lt;smart-input&gt;
+# &lt;smart-grid&gt;
 
 [Live Demos ↗](https://htmlelements.com/demos/)
 |
@@ -18,6 +18,12 @@
 [&lt;smart-grid&gt;](https://htmlelements.com/demos/) is a Data Grid Web Component with multiple different features like: Data Binding, Data Sorting, Filtering, Pagination, Editing, Live Updates, Virtual Data Load and more. The Grid is part of the [Smart HTML Elements](https://htmlelements.com/).
 
 [<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/grid-web-component.png" alt="Grid Web Component">](https://htmlelements.com/demos/)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/grid-web-component-dialog.png" alt="Grid Web Component Dialog">](https://htmlelements.com/demos/)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/grid-web-component-filtering.png" alt="Grid Web Component Filtering">](https://htmlelements.com/demos/)
+
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/grid-web-component-merged-cells.png" alt="Grid Web Component Merged Cells">](https://htmlelements.com/demos/)
 
 ## Getting Started
 
