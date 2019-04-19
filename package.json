@@ -1,6 +1,6 @@
 {
   "name": "@smarthtmlelements/smart-grid",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Grid Web Component - Custom Element - Smart HTML Elements",
    "scripts": { 
   },
@@ -27,7 +27,7 @@
 	"grid web component",
 	"grid custom element",
 	"bootstrap grid",
-	"datagrid","
+	"datagrid",
 	"datagrid web component",
 	"datagrid custom element"
   ]
