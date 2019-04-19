@@ -1,5 +1,22 @@
 # [Smart Grid Element](https://www.htmlelements.com)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%2020%20free%20custom%20elements%20based%20on%20SmartHTMLElements%20&url=https://www.htmlelements.com/&via=htmlelements&hashtags=bootstrap,design,templates,autocomplete,grid,typeahead,developers,webcomponents,customelements,polymer,material)
 
+### Grid Features Lists
+
+* Reactivity Support
+* Mobile-Ready
+* Loading 300 000 records in 1sec
+* Data Binding to Observable collection
+* Sorting by one or multiple columns
+* Filtering
+* Selection by Row or Multiple Rows
+* Pagination with Pager displayed below or above the Grid
+* Editing by Cell, Row, Dialog or with Static or Inline Command Command. Batch Editing
+* Multiple built-in Editors for List Editing, Text Editing, Date Editing and Custom Editors
+* Virtualization by Data and User Interface
+* Frozen | Pinned Rows and Columns
+* Merged Cells
+* Custom Cell Styles
+
 
 &nbsp;
 [![Price](https://img.shields.io/badge/price-$399-0098f7.svg)](https://github.com/HTMLElements/smart-grid/blob/master/LICENSE)
