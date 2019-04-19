@@ -65,15 +65,13 @@ Smart HTML Elements components documentation includes getting started, customiza
 
 ## Running demos in browser
 
-1. Fork the `Smart-HTML-Elements-Core` repository and clone it locally.
+1. Fork the repository and clone it locally.
 
 1. Make sure you have [npm](https://www.npmjs.com/) installed.
 
-1. When in the `Smart-HTML-Elements-Core` directory, run `npm install` and then `bower install` to install dependencies.
+1. When in the directory, run `npm install` 
 
-1. Run a localhost or upload the demo on a web server. Then run:
-
-  - /demos/smart-input/overview/
+1. Run a localhost and copy some of the demos from [https://www.htmlelements.com/demos/grid/overview/]
 
 
 ## Following the coding style
