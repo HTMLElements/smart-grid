@@ -17,7 +17,7 @@
 
 [&lt;smart-grid&gt;](https://htmlelements.com/demos/) is a Data Grid Web Component with multiple different features like: Data Binding, Data Sorting, Filtering, Pagination, Editing, Live Updates, Virtual Data Load and more. The Grid is part of the [Smart HTML Elements](https://htmlelements.com/).
 
-[<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/smart-grid.png" alt="Grid Web Component">](https://htmlelements.com/demos/)
+[<img src="https://raw.githubusercontent.com/htmlelements/smart-grid/master/grid-web-component.png" alt="Grid Web Component">](https://htmlelements.com/demos/)
 
 ## Getting Started
 
