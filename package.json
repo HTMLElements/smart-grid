@@ -1,0 +1,34 @@
+{
+  "name": "@smarthtmlelements/smart-grid",
+  "version": "3.0.0",
+  "description": "Grid Web Component - Custom Element - Smart HTML Elements",
+   "scripts": { 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HTMLElements/smart-grid.git"
+  },
+  "author": "https://www.htmlelements.com/",
+  "bugs": {
+    "url": "https://github.com/HTMLElements/smart-grid"
+  },
+  "homepage": "https://github.com/HTMLElements/smart-grid#readme",
+  "devDependencies": {
+ 
+  },
+  "dependencies": {	
+     "@smarthtmlelements/smart-elements": "^3.0.0"
+  },
+  "main": "index.js",
+  "directories": {},
+  "keywords": [
+	"grid",
+	"material grid web component",
+	"grid web component",
+	"grid custom element",
+	"bootstrap grid",
+	"datagrid","
+	"datagrid web component",
+	"datagrid custom element"
+  ]
+}
