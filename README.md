@@ -17,7 +17,11 @@ The Best Grid Web Component in the World. Built with Javascript ES6, CSS3. Works
 * Data Binding to Observable collection
 * Sorting by one or multiple columns
 * Filtering
+* Grouping
+* Cells Formatting
 * Selection by Row or Multiple Rows
+* Selection by Cell or Range of Cells
+* Selection by Column
 * Pagination with Pager displayed below or above the Grid
 * Editing by Cell, Row, Dialog or with Static or Inline Command Command. Batch Editing
 * Multiple built-in Editors for List Editing, Text Editing, Date Editing and Custom Editors
@@ -27,6 +31,9 @@ The Best Grid Web Component in the World. Built with Javascript ES6, CSS3. Works
 * Custom Cell Styles
 * Server-Side Data Loading, Filtering, Sorting, Pagination, Editing Operations 
 * Live Stream Updates
+* .xlsx Import/Export
+* Export to PDF, CSV, TSV, HTML, XML, JSON
+
 * Dark and Light Mode
 
 
@@ -95,4 +102,4 @@ We are using [ESLint](http://eslint.org/) for linting JavaScript code.
 
 ## License
 
-Commercial
+Commercial Professional and Free Community 
